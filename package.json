@@ -175,7 +175,7 @@
         "author": "thsrite",
         "level": 1
     },
-    "IYUUAutoSeed": {
+    "IYUUAutoSeedK": {
         "name": "IYUU自动辅种",
         "description": "基于IYUU官方Api实现自动辅种。",
         "version": "1.1",
